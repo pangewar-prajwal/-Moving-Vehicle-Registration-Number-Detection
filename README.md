@@ -8,7 +8,7 @@ Here's an overview of the key files and their roles in the repository:
 
 - **main.py**: Main script for processing video, detecting vehicles, and extracting license plate text.
 - **sort.py**: Implementation of the SORT (Simple Online and Realtime Tracking) algorithm.
-- **best.pt**: Pre-trained YOLOv8 model for license plate detection.
+- **best_5.pt**: Pre-trained YOLOv8 model for license plate detection.
 - **kia_alto.mp4**: Sample video for testing the detection workflow.
 - **README.md**: Project documentation (this file).
 
